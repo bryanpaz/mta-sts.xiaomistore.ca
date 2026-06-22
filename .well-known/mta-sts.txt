@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
-mx: mail.xiaomistore.ca
-max_age: 86400
+mode: enforce
+mx: *.mail.protection.outlook.com
+max_age: 31557600
